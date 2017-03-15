@@ -1,0 +1,13 @@
+<litepal>
+    <dbname value="happy_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.whieb.android.happyweaather.db.Province"/>
+        <mapping class="com.whieb.android.happyweaather.db.City" />
+        <mapping class="com.whieb.android.happyweaather.db.County"/>
+
+    </list>
+
+</litepal>
